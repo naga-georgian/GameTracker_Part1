@@ -24,13 +24,11 @@
     </fieldset>
     <br/>
     <fieldset>
-        <label for="Win" class="col-sm-2">Win: *</label>
-        <input name="Win" id="win" required value="" />
+        <input type="checkbox" name="win" value="Win"> Win
     </fieldset>
     <br/>
     <fieldset>
-        <label for="Lose" class="col-sm-2">Lose: *</label>
-        <input name="Lose" id="lose" required value="" />
+        <input type="checkbox" name="loss" value="Loss"> Loss
     </fieldset>
     
 </asp:Content>
