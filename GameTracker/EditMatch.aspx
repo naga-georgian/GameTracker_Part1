@@ -1,8 +1,8 @@
 ﻿<%-- 
-     File Name: Login.aspx 
+     File Name: CreateMatch.aspx 
      Author's Name: Naga Rimmalapudi and Chandra Reddy Gundam
      App Name: Game Tracker
-     File Description: This displays the login page.
+     File Description: This page will have the process of editing the match.
     --%>
 
 <%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="EditMatch.aspx.cs" Inherits="GameTracker.EditMatch" %>
