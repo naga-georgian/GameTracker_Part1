@@ -39,7 +39,9 @@
         <input type="hidden" name="user_id" id="user_id" value="">
         <div class="form-group">
             <button type="submit" value="submit" class="button">Register</button>
+            <button type="submit" value="submit" class="button">Cancel</button>
         </div>
+
     </form>
 </section>
 </div>
