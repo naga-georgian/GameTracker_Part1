@@ -16,7 +16,7 @@
     <form method="post" action="save-registration.php" class="form-horizontal">
         <div class="form-group">
             <label for="username" class="col-sm-2">Username:</label>
-            <input type="text" class="form-control" name="username" placeholder="User Name" value="<?php echo $username; ?>" required="required">
+            <input type="text" class="form-control" name="username" placeholder="User Name" value="" required="required">
         </div>
         <div class="form-group">
             <label for="password" class="col-sm-2">Password:</label>
