@@ -30,5 +30,7 @@
     <fieldset>
         <input type="checkbox" name="loss" value="Loss"> Loss
     </fieldset>
+    <br>
+  <input type="submit" value="Submit">
     
 </asp:Content>
