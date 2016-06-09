@@ -20,7 +20,7 @@
     <br/>
     <fieldset>
         <label for="Team B" class="col-sm-2">Team B: *</label>
-        <input name="Team B" id="team b" value="" />
+        <input name="Team B" id="team b" required placeholder="Team B" value="" />
     </fieldset>
     <br/>
     <fieldset>
