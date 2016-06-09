@@ -8,7 +8,7 @@
 <%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="EditMatch.aspx.cs" Inherits="GameTracker.EditMatch" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <h1>Select a Game</h1>
+    <h1>Edit a Game</h1>
     <fieldset>
         <label for="Game" class="col-sm-2">Game*</label>
         <input name="Game" id="game" required placeholder="Game" value="" />
