@@ -15,6 +15,16 @@
     <section class="col-md-6 col-md-offset-4">
     <form method="post" action="save-registration.php" class="form-horizontal">
         <div class="form-group">
+            <label for="firstname" class="col-sm-2">First Name:</label>
+            <input type="text" class="form-control" name="firstname" placeholder="First Name" value="" required="required">
+        </div>
+        <div class="form-group">
+            <label for="lastname" class="col-sm-2">Last Name:</label>
+            <input type="text" class="form-control" name="lastname" placeholder="Last Name" value="" required="required">
+        </div>
+        
+        
+        <div class="form-group">
             <label for="username" class="col-sm-2">Username:</label>
             <input type="text" class="form-control" name="username" placeholder="User Name" value="" required="required">
         </div>
