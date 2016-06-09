@@ -42,7 +42,7 @@
       <a class="navbar-brand" href="#">Game Tracker</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="Default.aspx"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+      <li><a href="Default.aspx"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
       <li><a href="CreateMatch.aspx"><i class="fa fa-male" aria-hidden="true"></i> Create Match</a></li>
        <li><a href="EditMatch.aspx"><i class="fa fa-file-text" aria-hidden="true"></i> Edit Match</a></li>
         <li><a href="Login.aspx"><i class="fa fa-wrench" aria-hidden="true"></i> Login</a></li> 
