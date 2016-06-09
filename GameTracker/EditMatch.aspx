@@ -6,7 +6,31 @@
     --%>
 
 <%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="EditMatch.aspx.cs" Inherits="GameTracker.EditMatch" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-</asp:Content>
+
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <h1>Select a Game</h1>
+    <fieldset>
+        <label for="Game" class="col-sm-2">Game*</label>
+        <input name="Game" id="game" required placeholder="Game" value="" />
+    </fieldset>
+    <br/>
+    <fieldset>
+        <label for="Team A" class="col-sm-2">Team A: *</label>
+        <input name="Team A" id="team a" required placeholder="Team A" value="" />
+    </fieldset>
+    <br/>
+    <fieldset>
+        <label for="Team B" class="col-sm-2">Team B: *</label>
+        <input name="Team B" id="team b" required placeholder="Team B" value="" />
+    </fieldset>
+    <br/>
+    <fieldset>
+        <input type="checkbox" name="win" value="Win"> Win
+    </fieldset>
+    <br/>
+    <fieldset>
+        <input type="checkbox" name="loss" value="Loss"> Loss
+    </fieldset>
+    <br>
+  <input type="submit" value="Submit">
 </asp:Content>
