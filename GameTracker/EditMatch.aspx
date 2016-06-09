@@ -10,7 +10,8 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h1>Edit a Game</h1>
     <fieldset>
-        <label for="Game" class="col-sm-2">Game*</label>
+    <%-- Edit section -%>
+            <label for="Game" class="col-sm-2">Game*</label>
         <input name="Game" id="game" required placeholder="Game" value="" />
     </fieldset>
     <br/>

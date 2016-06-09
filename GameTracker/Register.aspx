@@ -12,6 +12,7 @@
     <div class="col-md-6 col-md-offset-4 form-title">
         <h1>Register</h1>
     </div>
+        <%-- Register section -%>
     <section class="col-md-6 col-md-offset-4">
     <form method="post" action="save-registration.php" class="form-horizontal">
         <div class="form-group">
