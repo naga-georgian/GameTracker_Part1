@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Assignment01 {
+namespace GameTracker {
     
     
     public partial class Site1 {

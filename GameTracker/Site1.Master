@@ -6,7 +6,7 @@
      
     --%>
 
-<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Assignment01.Site1" %>
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="GameTracker.Site1" %>
 
 <!DOCTYPE html>
 
