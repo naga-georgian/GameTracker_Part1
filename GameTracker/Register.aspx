@@ -26,7 +26,7 @@
             <label for="confirm" class="col-sm-2">Confirm Password:</label>
             <input type="password" class="form-control" name="confirm" placeholder="Password" required="required">
         </div>
-        <input type="hidden" name="user_id" id="user_id" value="<?php echo $user_id; ?>" >
+        <input type="hidden" name="user_id" id="user_id" value="">
         <div class="form-group">
             <button type="submit" value="submit" class="button">Register</button>
         </div>
