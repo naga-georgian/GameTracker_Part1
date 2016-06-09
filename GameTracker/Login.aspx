@@ -11,7 +11,7 @@
     <h1>Log In</h1>
 <form method="post" action="validate.php" class="form-horizontal">
 
-    <%-- Login section -%>
+    <%-- Login section --%>
     <div class="form-group">
         <label for="username" class="col-sm-2">Username:</label>
         <input name="username" />
